@@ -1,0 +1,1 @@
+On the first day of learning Kubernetes, please go through the [Overview](https://kubernetes.io/docs/concepts/overview/) section in the [Kubernetes Docs](https://kubernetes.io/docs/).
